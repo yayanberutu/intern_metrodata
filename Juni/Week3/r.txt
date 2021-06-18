@@ -1,0 +1,7 @@
+1. Approval status-> approve
+2. Buat Attribut Bulk Payment -> check
+3. 
+
+
+//Center Tab
+<p align="right">Nomor Bukti: ${record.tranid?replace('INV', '')?remove_beginning('/')}</p>
