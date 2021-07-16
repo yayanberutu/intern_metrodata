@@ -272,7 +272,7 @@ define(['N/file', "N/ui/serverWidget", "../lib/moment.min.js", "N/search", "N/ru
                     var tranSearchResult = tranSearch.run().getRange({
                     start: startRow,
                     end: startRow + pageSize
-                });
+                    });
                 
                 log.debug("Search Result", tranSearchResult);
                 // if(tranSearchResult.length === 0){

@@ -1,0 +1,8 @@
+	1. Apakah semua COA nya merupakan semua yang diawali oleh 7
+2. Mastiin semua field nya
+3. Untuk field SubTotal apakah ada di netsuite nya? 
+  atau bakal di group  based on suatu atrribut
+
+DIpisah 
+COA: ANGKA DI ACCOUNT
+
